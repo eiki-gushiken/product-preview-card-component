@@ -1,8 +1,6 @@
-# Frontend Mentor - Product preview card component solution
+# Solução do exercício do Frontend Mentor - Product preview card component
 
 Esta é uma solução para o [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). 
-
-## Overview
 
 ### O desafio
 
@@ -10,8 +8,6 @@ Usuários devem ser capazes de:
 
 - Ver o layout da página mais otimizado em cada dispositivo
 - Ver o botão interativo com `hover` em "Add to Cart"
-
-## My process
 
 ### Feito com
 

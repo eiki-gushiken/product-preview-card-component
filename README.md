@@ -22,7 +22,7 @@ Tive algumas dificuldades no quesito de escolher algumas tags HTML que poderiam 
 Para resolver isso, utilizer a tag `picture`, que funcionou perfeitamente.
 
 ```HTML
-<picture class="imagem-produto">
+    <picture class="imagem-produto">
       <source srcset="./src/images/image-product-mobile.jpg" media="(max-width: 576px)">
       <img src="./src/images/image-product-desktop.jpg" alt="Imagem">
     </picture>
